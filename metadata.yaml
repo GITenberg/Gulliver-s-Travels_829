@@ -20,11 +20,11 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Travelers -- Fiction'
-- '!lcc:PR'
-- '!lcsh:Fantasy fiction'
-- '!lcsh:Satire'
 - '!lcsh:Gulliver, Lemuel (Fictitious character) -- Fiction'
+- '!lcsh:Travelers -- Fiction'
 - '!lcsh:Voyages, Imaginary -- Early works to 1800'
+- '!lcsh:Fantasy fiction'
+- '!lcc:PR'
+- '!lcsh:Satire'
 title: Gulliver's Travels
 url: http://www.gutenberg.org/ebooks/829
