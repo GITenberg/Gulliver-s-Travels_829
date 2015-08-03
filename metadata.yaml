@@ -15,8 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
 gutenberg_bookshelf:
-- Best Books Ever Listings
 - Banned Books from Anne Haight's list
+- Best Books Ever Listings
 gutenberg_issued: '1997-02-01'
 gutenberg_type: Text
 identifiers:
@@ -26,11 +26,11 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Gulliver, Lemuel (Fictitious character) -- Fiction'
-- '!lcsh:Travelers -- Fiction'
-- '!lcsh:Voyages, Imaginary -- Early works to 1800'
-- '!lcsh:Fantasy fiction'
-- '!lcc:PR'
-- '!lcsh:Satire'
+- '!lcsh: Satire'
+- '!lcc: PR'
+- '!lcsh: Gulliver, Lemuel (Fictitious character) -- Fiction'
+- '!lcsh: Voyages, Imaginary -- Early works to 1800'
+- '!lcsh: Fantasy fiction'
+- '!lcsh: Travelers -- Fiction'
 title: Gulliver's Travels
 url: http://www.gutenberg.org/ebooks/829
