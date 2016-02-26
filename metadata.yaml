@@ -1,5 +1,5 @@
 _repo: Gulliver-s-Travels_829
-_version: 0.0.3
+_version: 0.1.0
 covers:
 - attribution: Naomi Sloman, 2015
   cover_type: original
@@ -34,5 +34,6 @@ subjects:
 - '!lcsh: Voyages, Imaginary -- Early works to 1800'
 - '!lcsh: Fantasy fiction'
 - '!lcsh: Travelers -- Fiction'
+- GITenberg
 title: Gulliver's Travels
 url: http://www.gutenberg.org/ebooks/829
